@@ -1,0 +1,12 @@
+C:\Users\118069\Documents\GitHub\TesteComXUnit.Net\Demo\Demo\bin\Debug\net6.0\Demo.deps.json
+C:\Users\118069\Documents\GitHub\TesteComXUnit.Net\Demo\Demo\bin\Debug\net6.0\Demo.dll
+C:\Users\118069\Documents\GitHub\TesteComXUnit.Net\Demo\Demo\bin\Debug\net6.0\ref\Demo.dll
+C:\Users\118069\Documents\GitHub\TesteComXUnit.Net\Demo\Demo\bin\Debug\net6.0\Demo.pdb
+C:\Users\118069\Documents\GitHub\TesteComXUnit.Net\Demo\Demo\obj\Debug\net6.0\Demo.csproj.AssemblyReference.cache
+C:\Users\118069\Documents\GitHub\TesteComXUnit.Net\Demo\Demo\obj\Debug\net6.0\Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\118069\Documents\GitHub\TesteComXUnit.Net\Demo\Demo\obj\Debug\net6.0\Demo.AssemblyInfoInputs.cache
+C:\Users\118069\Documents\GitHub\TesteComXUnit.Net\Demo\Demo\obj\Debug\net6.0\Demo.AssemblyInfo.cs
+C:\Users\118069\Documents\GitHub\TesteComXUnit.Net\Demo\Demo\obj\Debug\net6.0\Demo.csproj.CoreCompileInputs.cache
+C:\Users\118069\Documents\GitHub\TesteComXUnit.Net\Demo\Demo\obj\Debug\net6.0\Demo.dll
+C:\Users\118069\Documents\GitHub\TesteComXUnit.Net\Demo\Demo\obj\Debug\net6.0\ref\Demo.dll
+C:\Users\118069\Documents\GitHub\TesteComXUnit.Net\Demo\Demo\obj\Debug\net6.0\Demo.pdb
