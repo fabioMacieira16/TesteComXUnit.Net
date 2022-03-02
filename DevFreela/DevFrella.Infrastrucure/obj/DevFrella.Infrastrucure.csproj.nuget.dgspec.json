@@ -1,0 +1,122 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\118069\\Documents\\GitHub\\TesteComXUnit.Net\\DevFreela\\DevFrella.Infrastrucure\\DevFrella.Infrastrucure.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\118069\\Documents\\GitHub\\TesteComXUnit.Net\\DevFreela\\DevFreela.Core\\DevFreela.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\118069\\Documents\\GitHub\\TesteComXUnit.Net\\DevFreela\\DevFreela.Core\\DevFreela.Core.csproj",
+        "projectName": "DevFreela.Core",
+        "projectPath": "C:\\Users\\118069\\Documents\\GitHub\\TesteComXUnit.Net\\DevFreela\\DevFreela.Core\\DevFreela.Core.csproj",
+        "packagesPath": "C:\\Users\\118069\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\118069\\Documents\\GitHub\\TesteComXUnit.Net\\DevFreela\\DevFreela.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\118069\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://nexusdev.pmenos.com.br:8081/repository/nuget01/": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\118069\\Documents\\GitHub\\TesteComXUnit.Net\\DevFreela\\DevFrella.Infrastrucure\\DevFrella.Infrastrucure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\118069\\Documents\\GitHub\\TesteComXUnit.Net\\DevFreela\\DevFrella.Infrastrucure\\DevFrella.Infrastrucure.csproj",
+        "projectName": "DevFrella.Infrastrucure",
+        "projectPath": "C:\\Users\\118069\\Documents\\GitHub\\TesteComXUnit.Net\\DevFreela\\DevFrella.Infrastrucure\\DevFrella.Infrastrucure.csproj",
+        "packagesPath": "C:\\Users\\118069\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\118069\\Documents\\GitHub\\TesteComXUnit.Net\\DevFreela\\DevFrella.Infrastrucure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\118069\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://nexusdev.pmenos.com.br:8081/repository/nuget01/": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\118069\\Documents\\GitHub\\TesteComXUnit.Net\\DevFreela\\DevFreela.Core\\DevFreela.Core.csproj": {
+                "projectPath": "C:\\Users\\118069\\Documents\\GitHub\\TesteComXUnit.Net\\DevFreela\\DevFreela.Core\\DevFreela.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
